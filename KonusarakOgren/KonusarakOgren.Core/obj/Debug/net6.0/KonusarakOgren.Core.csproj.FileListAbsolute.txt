@@ -1,0 +1,12 @@
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\bin\Debug\net6.0\KonusarakOgren.Core.deps.json
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\bin\Debug\net6.0\KonusarakOgren.Core.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\bin\Debug\net6.0\KonusarakOgren.Core.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\refint\KonusarakOgren.Core.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\KonusarakOgren.Core.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Core\obj\Debug\net6.0\ref\KonusarakOgren.Core.dll

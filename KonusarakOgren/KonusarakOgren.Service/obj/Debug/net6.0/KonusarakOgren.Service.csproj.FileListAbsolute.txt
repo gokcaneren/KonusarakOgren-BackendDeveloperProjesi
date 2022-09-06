@@ -1,0 +1,17 @@
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Service.deps.json
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Service.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Service.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Core.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Repository.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Repository.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\bin\Debug\net6.0\KonusarakOgren.Core.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.csproj.CopyComplete
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\refint\KonusarakOgren.Service.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\KonusarakOgren.Service.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Service\obj\Debug\net6.0\ref\KonusarakOgren.Service.dll

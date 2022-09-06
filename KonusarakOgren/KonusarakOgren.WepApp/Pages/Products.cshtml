@@ -1,0 +1,14 @@
+﻿@page
+@model KonusarakOgren.WepApp.Pages.ProductsModel
+@{
+}
+
+<div>
+    <h1>Products</h1>
+    <ul>
+        @foreach (var item in Model.Products)
+        {
+            <li>@item.Name - @item.Price</li>
+        }
+    </ul>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Repository.deps.json
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Repository.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Repository.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Repository.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Core.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\bin\Debug\net6.0\KonusarakOgren.Core.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.csproj.CopyComplete
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\refint\KonusarakOgren.Repository.dll
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.pdb
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\KonusarakOgren.Repository.genruntimeconfig.cache
+C:\Users\Gok\Desktop\c# console proje\KonusarakOgrenWebProjesi\KonusarakOgren\KonusarakOgren.Repository\obj\Debug\net6.0\ref\KonusarakOgren.Repository.dll
